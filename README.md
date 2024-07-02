@@ -18,5 +18,5 @@ This was a website built to showcase my
 * GitHub
 
 ## Website link 
-https://lohiyapriyansh07.github.io/Portfolio/
+https://07shreyansh.github.io/myportfolio
 
